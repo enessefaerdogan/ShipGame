@@ -1,2 +1,7 @@
-# Gemi_Oyunu
-Gemi_Oyunu Bu Oyunu Java dilinde yazdım , temel olarak pnglerin hareketine dayanıyor , amacımız her bölümde üzerimize gelen npcleri yok edip oyunu bitirmek , bunu yaparken gemimizi sağa sola ve yukarı aşağı hareket ettirebiliyoruz ve gülle fırlatabiliyoruz.  Oyundan Görüntü ; https://prnt.sc/22nvzjk
+# Ship Game
+
+I developed this game in Java , it is basically based on the movement of pngs, our goal is to destroy the npc that comes upon us in each level and finish the game, while doing this, we can move our ship left and right and up and down, and we can throw cannonballs. 
+
+# Image from Game
+
+https://prnt.sc/22nvzjk
